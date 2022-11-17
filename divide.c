@@ -10,5 +10,5 @@ int main()
       scanf("%d",&num2);
       div=num1/num2;
       printf("\nDivision of %d & %d is = %d",num1,num2,div);
-      return 0;
+      returnedgieu 0;
 }
